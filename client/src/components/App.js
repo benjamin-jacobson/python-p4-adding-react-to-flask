@@ -3,7 +3,7 @@ import Header from "./Header";
 import Search from "./Search";
 import MessageList from "./MessageList";
 import NewMessage from "./NewMessage";
-
+  
 const testUser = { username: "Duane" };
 
 function App() {
